@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>EartHero - Login</title>
+    <link rel="icon" href="/earthero.png">
+</head>
+<body>
+
+        <style>
+            body{
+                background-color: #974C1C;
+                font-family: 'Poppins', sans-serif;
+                margin: auto;
+            }
+
+            .conteiner{
+                height: 600px;
+                width: 500px;
+                background-color: #974C1C;
+                margin: 0 auto;
+                border: 5px inset #f4f4f4;
+                border-radius: 13px 13px 7px 13px;
+                margin-top: 20px
+            }
+
+            .decoracao{
+                margin-top: 30px
+            }
+
+            img{
+                    margin-bottom: -50px;
+                    display: block;
+                    margin: 0 auto;
+                    height: 150px;
+                    width: 150px;
+                }
+
+            label{
+                color: #974C1C;
+                display: inline-block;
+                height: 22px;
+                width: 100px;
+            }
+
+	        .final{
+                font-size: 14px;
+		        color: #111111;
+		        text-decoration: none;
+		        text-align: center;
+		        margin-top: 5px
+            }
+
+            .registre{
+                text-decoration: none;
+			    color: #974C1C;
+            }
+
+            .registre:hover{
+                color: #EACCA8;
+			    border-bottom: 1px solid white;
+            }
+
+            .enviar {
+                margin-top: 10px;
+                margin-left: 140px;
+                width: 150px;
+                background: #EACCA8;
+                background-color:#EACCA8;
+                border-radius: 6px;
+                border:1px none #EACCA8;
+                display:inline-block;
+                cursor:pointer;
+                color:#974C1C;
+                font-family: inherit;
+                font-size:19px;
+                padding:7px 25px;
+                text-decoration:none;
+            }
+            .enviar:active {
+	            position:relative;
+	            top:1px;
+            }
+
+            .emailsenha{
+                margin-left: inherit;
+                font-size: 18px
+            }
+
+            .emailsenha2{
+                margin-left: inherit;
+                border: 2px solid #EACBA6;
+                border-radius: 6px;
+                width: 370px;
+            }
+
+            form{
+                background-color: #ffffff;
+                border-radius: 15px;
+                margin: 30px;
+                align-items: center;
+            }
+
+            </style>
+  <div class="conteiner">
+    <div class="decoracao">
+            <a href="/index.html"><img class="logo" src="/earthero.png" alt="Logo da EartHero" title="Logo da EartHero"></a>
+        </div>
+        <br>
+        <br>
+     <form>
+       <label class="emailsenha" for="mail">Email:</label>
+       <br>
+       <input class="emailsenha2" accesskey="e" type="email" name="ata" maxlength="100" required>
+       <br>
+       <br>
+       <label class="emailsenha" for="password">Senha:</label>
+       <br>
+       <input class="emailsenha2" accesskey="s" type="password" required name="senha" maxlength="100" minlength="6" autofocus>
+       <br>
+       <p class="final">Não tem uma conta? <a class="registre" href="#" target="_blank">Cadastre-se</a></p>
+       <p class="final"><a class="registre" href="#" target="_blank">Esqueceu sua senha?</a></p>
+       <br>
+       <br>
+       <input class= "enviar" type="submit" name="Enviar" value="Entrar">
+     </form>
+</div>
+</body>
+</html>
