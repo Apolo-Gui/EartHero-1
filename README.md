@@ -1,4 +1,4 @@
-<img src="/earthero.png" widht="110px" heght="110px" alt="image"></img>
+<img src="/earthero.png" widht="110px" heght="110px" align="left" alt="image"></img>
 <h1>EartHero</h1>
 
 Bem-vindo ao repositório da EartHero! Somos uma empresa dedicada a tornar a reciclagem divertida e educativa. Aqui, você encontrará nosso projeto principal, uma forma divertida de fazer a reciclagem
