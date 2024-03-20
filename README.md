@@ -9,4 +9,4 @@ Se você tiver ideias para melhorar nosso jogo ou quiser adicionar recursos adic
 
 ## Contato
 
-Para mais informações sobre a Fun Recycling Co, entre em contato conosco pelo [instagram](https://www.instagram.com/eartherochl/)
+Para mais informações sobre a EartHero, entre em contato conosco pelo [INSTAGRAM](https://www.instagram.com/eartherochl/)
