@@ -1,6 +1,6 @@
-# EartHero
+<h1>EartHero</h1>
 
-Bem-vindo ao repositório da <span color="#974C19">EartHero</span>! Somos uma empresa dedicada a tornar a reciclagem divertida e educativa. Aqui, você encontrará nosso projeto principal, um jogo em Python chamado "Recycle Quest".
+Bem-vindo ao repositório da EartHero!<br> Somos uma empresa dedicada a tornar a reciclagem divertida e educativa. Aqui, você encontrará nosso projeto principal, uma forma divertida de fazer a reciclagem
 
 ## Recycle Quest
 
@@ -21,4 +21,4 @@ Se você tiver ideias para melhorar nosso jogo ou quiser adicionar recursos adic
 
 ## Contato
 
-Para mais informações sobre a Fun Recycling Co, entre em contato conosco em funrecyclingco@example.com.
+Para mais informações sobre a Fun Recycling Co, entre em contato conosco pelo [instagram](https://www.instagram.com/eartherochl/)
