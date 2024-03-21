@@ -1,5 +1,5 @@
 <link rel="stylesheet" href="style.css">
-<img src="/earthero.png" widht="90px" heght="90px" align="left" alt="image"></img>
+<img src="/PAWSITIVRLY_PET_NANNIES.png" widht="90px" heght="90px" align="left" alt="image"></img>
 
 <h1>EartHero</h1>
 
