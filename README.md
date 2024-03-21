@@ -1,5 +1,5 @@
 <link rel="stylesheet" href="style.css">
-<<<<<<< HEAD
+<HEAD>Pet enviromental</HEAD>
 <img src="" widht="90px" heght="90px" align="left" alt="image"></img>
 <h1>EartHero</h1>
 
