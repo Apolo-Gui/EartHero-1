@@ -1,10 +1,6 @@
 <link rel="stylesheet" href="style.css">
 <<<<<<< HEAD
 <img src="" widht="90px" heght="90px" align="left" alt="image"></img>
-=======
-<img src=".PAWSITIVRLY_PET_NANNIES.png" widht="90px" heght="90px" align="left" alt="image"></img>
->>>>>>> 5e722fa3ea6d882f5116f223caab63530576eb5b
-
 <h1>EartHero</h1>
 
 Bem-vindo ao repositório da EartHero! Somos uma empresa dedicada a tornar a reciclagem divertida e educativa. Aqui, você encontrará nosso projeto principal, uma forma divertida de fazer a reciclagem
