@@ -3,7 +3,7 @@
     --secondary-color: #EACCA8;
 }
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Lusitana:wght@400;700&display=swap')
+@import url('https://fonts.googleapis.com/css2?family=Lusitana:wght@400;700&display=swap');
 
 * {
     margin: 0;
@@ -11,10 +11,9 @@
 }
 
 body {
-    font-family: 'Lusitana', serif;
-    background: linear-gradient(90deg, rgb(255, 255, 255) 35%, #974C1C 10%);
+    font-family: 'Poppins', sans-serif;
+    background: linear-gradient(90deg, #fff 35%, #E8A650 15%);
     margin: auto;
-
 }
 
 /*  NAVBAR  */
@@ -31,7 +30,6 @@ header {
     font-weight: 800;
     color: var(--primary-color);
     text-decoration: none;
-    
 }
 
 nav {
@@ -44,7 +42,6 @@ nav a {
     font-size: .97rem;
     font-weight: 600;
     padding: 0.4rem 1.3rem;
-
 }
 
 nav a:hover,
@@ -76,8 +73,8 @@ section {
 }
 
 .main h1 {
-    font-size: 2.5rem;
-    font-weight: 600;
+    font-size: 5rem;
+    font-weight: 400;
     color: #fff;
 }
 
@@ -102,9 +99,9 @@ section {
 }
 
 .social a {
-    color: var(--secondary-color);
+    color: var(--primary-color);
     font-size: 1rem;
-    border: 1px solid #fff;
+    border: 1px solid #974C1C;
     border-radius: 50%;
     padding: 0.3rem;
     text-align: center;
@@ -112,7 +109,6 @@ section {
     height: 25px;
     display: grid;
     place-items: center;
-
 }
 
 .social a:hover {
@@ -121,7 +117,6 @@ section {
     box-shadow: 0 0 20px var(--secondary-color);
     border-color: var(--secondary-color);
     transition: all .3s ease-in-out;
-
 }
 
 /* IMAGE*/
@@ -137,7 +132,7 @@ section {
     width: 25em;
     height: 25em;
     border-radius: 50%;
-    background: #974C1C;
+    background: #E8A650;
     display: grid;
     place-items: center;
 }
@@ -160,18 +155,16 @@ section {
 
 .blue-bg img {
     position: relative;
-    bottom: 30px;
     width: 100%;
     border-radius: 50%;
 }
-
 
 /*BUTTON*/
 .cv-btn {
     margin-top: 1.5rem;
     padding: 0.7em 2.5em;
     border-radius: 25px;
-    background-color: #EACCA8;
+    background-color: #974C1C;
     font-size: 1rem;
     font-weight: bold;
     color: white;
@@ -180,8 +173,8 @@ section {
 }
 
 .cv-btn:hover {
-    background-color: #EACCA8;
-    box-shadow: 0 0 10px #EACCA8;
+    background-color: #974C1C;
+    box-shadow: 0 0 10px #974C1C;
     transition: all .3s ease-in-out;
 
 }
@@ -193,7 +186,7 @@ section {
     font-family: Arial, Helvetica, sans-serif;
     color: transparent;
     background-repeat: no-repeat;
-    background-image: linear-gradient(#EACCA8, #974C1C);
+    background-image: linear-gradient(to bottom, #fff, #eeff00);
     -webkit-background-clip: text;
     background-clip: none;
     background-position: -500px 0;
@@ -225,7 +218,7 @@ section {
     }
 
     body {
-        background: linear-gradient(180deg, rgb(255, 255, 255) 35%, #02153f 10%);
+        background: linear-gradient(180deg, rgb(255, 255, 255) 35%, #E8A650 10%);
     }
 
     .menu {
@@ -247,7 +240,7 @@ section {
         display: flex;
         flex-direction: column;
         text-align: center;
-        background-color: #02153f;
+        background-color: #974C1C;
         left: -100%;
         width: 100%;
         top: 3rem;
@@ -320,4 +313,13 @@ section {
         right: 10px;
         width: 100%;
     }
+}
+
+/*footer*/
+footer{
+    background-color: #974C1C;
+    color: #EACCA8;
+    width: auto;
+    margin: auto;
+    align-items: center;
 }

@@ -13,4 +13,4 @@ Se você tiver ideias para melhorar nosso jogo ou quiser adicionar recursos adic
 
 <h3>Contato</h3>
 
-Para mais informações sobre a EartHero, entre em contato conosco pelo [INSTAGRAM](https://www.instagram.com/eartherochl/).
+Para mais informações sobre a EartHero, entre em contato conosco pelo [INSTAGRAM](https://www.instagram.comeartherochl/).
