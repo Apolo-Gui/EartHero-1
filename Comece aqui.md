@@ -1,8 +1,8 @@
 <h1>PetNanny - Babá de Pets</h1>
 
 <img src="PAWSITIVELY.png" widht="50" height="50"></img>
+Bem-vindo ao repositório oficial da PetNanny, uma empresa dedicada a cuidar dos seus pets quando você não pode!
 
-<p>Bem-vindo ao repositório oficial da PetNanny, uma empresa dedicada a cuidar dos seus pets quando você não pode!</p>
 ---
 
 <h1>Sobre Nós</h1>
