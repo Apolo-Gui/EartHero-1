@@ -1,6 +1,6 @@
 <h1>PetNanny - Babá de Pets</h1>
 
-![Logo PetNanny](link_para_a_logo.png)
+![Logo PetNanny](/PAWSITIVELY.png)
 
 <p>Bem-vindo ao repositório oficial da <span style="color: red;">PetNanny</span>, uma empresa dedicada a cuidar dos seus pets quando você não pode!</p>
 
