@@ -4,6 +4,9 @@
 
 <p>Bem-vindo ao repositório oficial da <span style="color: red;">PetNanny</span>, uma empresa dedicada a cuidar dos seus pets quando você não pode!</p>
 
+<span style="color: red;">Este texto está vermelho</span>
+<span style="color: blue;">Este texto está azul</span>
+
 ---
 
 <h1>Sobre Nós</h1>
