@@ -1,4 +1,4 @@
-<h1>👋 &nbsp;Olá, eu sou o Ayran, um desenvolvedor web apaixonado pelo que faz!</h1>
+<h1>👋 &nbsp;Olá, nós somos a , um desenvolvedor web apaixonado pelo que faz!</h1>
 <p align="center">
 <a href="[https://instagram.com/ayranoliveira_](https://www.instagram.com/pawsitivelypetnannies/)"><img src="/instagram.svg" widht="50" height="50" color="#fff"/></a>
 <a href="https://www.linkedin.com/in/ayran-oliveira-258499291"><img src="/twitter-alt.svg" widht="50" height="50"/></a>
