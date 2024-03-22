@@ -1,13 +1,13 @@
-<h1>PetNanny - Babá de Pets</h1>
+<h1>Pawsitively Pet Nanny - Cuidadores de Pets</h1>
 
 <img src="PAWSITIVELY.png" widht="80" height="80"></img>
-Bem-vindo ao repositório oficial da PetNanny, uma empresa dedicada a cuidar dos seus pets quando você não pode!
+Bem-vindo ao repositório oficial da Pawsitively Pet Nanny, uma empresa dedicada a cuidar dos seus pets quando você não pode!
 
 ---
 
 <h1>Sobre Nós</h1>
 
-<p>A PetNanny é uma empresa de babá de pets que oferece serviços de cuidado e entretenimento para os seus animais de estimação enquanto você está ausente. Nossos profissionais são treinados e apaixonados por animais, garantindo o melhor cuidado para o seu amiguinho.</p>
+<p>A Pawsitively Pet Nanny é uma empresa de cuidadores de pets que oferece serviços de cuidado e entretenimento para os seus animais de estimação enquanto você está ausente. Nossos profissionais são treinados e apaixonados por animais, garantindo o melhor cuidado para o seu amiguinho.</p>
 
 ---
 
