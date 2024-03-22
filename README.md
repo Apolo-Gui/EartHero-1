@@ -2,7 +2,7 @@
 <p align="center">
 <a href="[https://instagram.com/ayranoliveira_](https://www.instagram.com/pawsitivelypetnannies/)"><img src="/instagram.svg"/></a>
 <a href="https://www.linkedin.com/in/ayran-oliveira-258499291"><img src="/twitter-alt.svg" widht="20" height="20"/></a>
-<a href="mailto:ayranoliveira1@gmail.com"><img src="/envelope.svg"/></a>
+<a href="mailto:ayranoliveira1@gmail.com"><img src="/envelope.svg" widht="20" height="20/></a>
 </p>
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
