@@ -1,12 +1,14 @@
 <h1>PetNanny - Babá de Pets</h1>
+<style>
+  !{
+    widht:50;
+    heigth:50;
+  }
+</style>
 
 ![Logo PetNanny](/PAWSITIVELY.png)
 
-<p>Bem-vindo ao repositório oficial da <span style="color: red;">PetNanny</span>, uma empresa dedicada a cuidar dos seus pets quando você não pode!</p>
-
-<span style="color: red;">Este texto está vermelho</span>
-<span style="color: blue;">Este texto está azul</span>
-
+<p>Bem-vindo ao repositório oficial da PetNanny, uma empresa dedicada a cuidar dos seus pets quando você não pode!</p>
 ---
 
 <h1>Sobre Nós</h1>
@@ -19,7 +21,7 @@
 
 <p>Siga-nos nas redes sociais para ficar por dentro das novidades e dicas para cuidar do seu pet:
 <ul>
-- <li>[Facebook](https://www.facebook.com/petnanny)</li>
+- <li>[Youtube](https://www.facebook.com/petnanny)</li>
 - <li>[Instagram](https://www.instagram.com/petnanny)</li>
 - <li>[Twitter](https://www.twitter.com/petnanny)</li>
 </ul>
