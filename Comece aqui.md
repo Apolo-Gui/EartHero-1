@@ -16,7 +16,7 @@ Bem-vindo ao repositório oficial da Pawsitively Pet Nanny, uma empresa dedicada
 <p>Siga-nos nas redes sociais para ficar por dentro das novidades e dicas para cuidar do seu pet:
 <ul>
 - <li>[Youtube](https://www.facebook.com/petnanny)</li>
-- <li>[Instagram](https://www.instagram.com/petnanny)</li>
+- <li>[Instagram](https://www.instagram.com/pawsitivelypetnannies/)</li>
 - <li>[Twitter](https://www.twitter.com/petnanny)</li>
 </ul>
 </p>
