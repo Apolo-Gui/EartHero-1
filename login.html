@@ -1,130 +1,80 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>EartHero - Login</title>
-    <link rel="icon" href="/earthero.png">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Tela de Login</title>
+<style>
+  body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #974C1C;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+
+  .login-card {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+
+  .login-card h1 {
+    color: #974C1C;
+  }
+
+  .login-card form {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .login-card input[type="text"],
+  .login-card input[type="password"] {
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+  }
+
+  .login-card input[type="submit"] {
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    background-color: #974C1C;
+    color: white;
+    cursor: pointer;
+  }
+
+  .login-card input[type="submit"]:hover {
+    background-color: #EACCA8;
+  }
+
+  .profile-image {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin-bottom: 20px;
+  }
+</style>
 </head>
 <body>
 
-        <style>
-            body{
-                background-color: #974C1C;
-                font-family: 'Poppins', sans-serif;
-                margin: auto;
-            }
-
-            .conteiner{
-                height: 600px;
-                width: 500px;
-                background-color: #974C1C;
-                margin: 0 auto;
-                border: 5px inset #f4f4f4;
-                border-radius: 13px 13px 7px 13px;
-                margin-top: 20px
-            }
-
-            .decoracao{
-                margin-top: 30px
-            }
-
-            img{
-                    margin-bottom: -50px;
-                    display: block;
-                    margin: 0 auto;
-                    height: 150px;
-                    width: 150px;
-                }
-
-            label{
-                color: #974C1C;
-                display: inline-block;
-                height: 22px;
-                width: 100px;
-            }
-
-	        .final{
-                font-size: 14px;
-		        color: #111111;
-		        text-decoration: none;
-		        text-align: center;
-		        margin-top: 5px
-            }
-
-            .registre{
-                text-decoration: none;
-			    color: #974C1C;
-            }
-
-            .registre:hover{
-                color: #EACCA8;
-			    border-bottom: 1px solid white;
-            }
-
-            .enviar {
-                margin-top: 10px;
-                margin-left: 140px;
-                width: 150px;
-                background: #EACCA8;
-                background-color:#EACCA8;
-                border-radius: 6px;
-                border:1px none #EACCA8;
-                display:inline-block;
-                cursor:pointer;
-                color:#974C1C;
-                font-family: inherit;
-                font-size:19px;
-                padding:7px 25px;
-                text-decoration:none;
-            }
-            .enviar:active {
-	            position:relative;
-	            top:1px;
-            }
-
-            .emailsenha{
-                margin-left: inherit;
-                font-size: 18px
-            }
-
-            .emailsenha2{
-                margin-left: inherit;
-                border: 2px solid #EACBA6;
-                border-radius: 6px;
-                width: 370px;
-            }
-
-            form{
-                background-color: #ffffff;
-                border-radius: 15px;
-                margin: 30px;
-                align-items: center;
-            }
-
-            </style>
-  <div class="conteiner">
-    <div class="decoracao">
-            <a href="/index.html"><img class="logo" src="PAWSITIVELY.png" alt="Logo da EartHero" title="Logo da EartHero"></a>
-        </div>
-        <br>
-        <br>
-     <form>
-       <label class="emailsenha" for="mail">Email:</label>
-       <br>
-       <input class="emailsenha2" accesskey="e" type="email" name="ata" maxlength="100" required>
-       <br>
-       <br>
-       <label class="emailsenha" for="password">Senha:</label>
-       <br>
-       <input class="emailsenha2" accesskey="s" type="password" required name="senha" maxlength="100" minlength="6" autofocus>
-       <br>
-       <p class="final">Não tem uma conta? <a class="registre" href="#" target="_blank">Cadastre-se</a></p>
-       <p class="final"><a class="registre" href="#" target="_blank">Esqueceu sua senha?</a></p>
-       <br>
-       <br>
-       <input class= "enviar" type="submit" name="Enviar" value="Entrar">
-     </form>
+<div class="login-card">
+  <img class="profile-image" src="https://via.placeholder.com/100" alt="Profile Image">
+  <h1>Login</h1>
+  <form>
+    <input type="text" placeholder="Usuário">
+    <input type="password" placeholder="Senha">
+    <input type="submit" value="Entrar">
+  </form>
 </div>
+
 </body>
 </html>
